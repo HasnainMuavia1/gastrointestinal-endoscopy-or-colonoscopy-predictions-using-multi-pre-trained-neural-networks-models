@@ -1,5 +1,7 @@
 **Report**
-
+<br><br>
+NOTE: dataset was big that's why here is the drive - [Drive Link ](https://drive.google.com/file/d/1W0SvBXF1X51qdhKE7rTIufIVa8wkssDh/view?usp=sharing)
+<br><br>
 **Dataset Description**
 
 The maximum counts of the dataset of class were 900 images and rest of
@@ -67,12 +69,7 @@ VGG -- 16
 
 **Augmentation:**
 
-**Simple**            **Augmented**                   Simple                           Augmented**
 
-![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image1.jpeg)
-![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image2.jpeg)
-![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image3.jpeg)
-![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image4.jpeg)
 
 **VGG-16**
 
@@ -128,3 +125,7 @@ to 0.30.
 
 ![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image11.png)
 ![](vertopal_6d0a176a7af64a3b9aa7bbbdf4bdd54a/media/image15.png)
+
+## Authors
+
+- [@HasnainMuavia](https://github.com/HasnainMuavia1)
